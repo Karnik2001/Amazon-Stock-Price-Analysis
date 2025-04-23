@@ -10,14 +10,6 @@ This repository contains a data science project that analyzes Amazon's historica
 
     Technologies Used: PySpark, Jupyter Notebook, Pandas, Matplotlib
 
-# 📂 File Structure
-
-Amazon_Stock_Price_Analysis_Using_PySpark/
-│
-├── Amazon_Stock_Price_Analysis_Using_PySpark.ipynb   # Main notebook with PySpark analysis
-├── data/                                              # Folder for input CSV files (optional)
-└── README.md                                          # Project overview and instructions
-
 # ⚙️ Technologies & Libraries
 
     Python
@@ -51,3 +43,9 @@ Amazon_Stock_Price_Analysis_Using_PySpark/
     Monthly average closing prices
 
     Moving average calculations (e.g., 20-day MA)
+
+# Citations
+
+https://www.analyticsvidhya.com/blog/2022/06/walmart-stock-price-analysis-using-pyspark/
+
+https://medium.com/accredian/linear-regression-with-pyspark-c5e2d0012072
