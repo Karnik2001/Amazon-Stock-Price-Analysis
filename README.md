@@ -1,7 +1,8 @@
 # 📈 Amazon Stock Price Analysis Using PySpark
 
 This repository contains a data science project that analyzes Amazon's historical stock price using Apache Spark (PySpark). The project demonstrates how to handle large-scale time series financial data efficiently and extract meaningful insights from it using Spark DataFrames and PySpark functionalities.
-🚀 Project Overview
+
+# 🚀 Project Overview
 
     Objective: Perform exploratory data analysis (EDA) and basic statistical operations on Amazon's historical stock price using PySpark.
 
