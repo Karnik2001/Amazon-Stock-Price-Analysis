@@ -8,7 +8,7 @@ This repository contains a data science project that analyzes Amazon's historica
 
     Data Source: Yahoo Finance
 
-    Technologies Used: PySpark, Jupyter Notebook, Pandas, Matplotlib
+    Technologies Used: PySpark, Google Colab Notebook, Pandas, Matplotlib
 
 # ⚙️ Technologies & Libraries
 
