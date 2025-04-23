@@ -30,8 +30,6 @@ This repository contains a data science project that analyzes Amazon's historica
 
     Perform descriptive statistical analysis
 
-    Compute moving averages and other stock indicators
-
     Visualize stock trends with matplotlib
 
 # 📊 Sample Insights
@@ -41,8 +39,6 @@ This repository contains a data science project that analyzes Amazon's historica
     Daily stock price volatility
 
     Monthly average closing prices
-
-    Moving average calculations (e.g., 20-day MA)
 
 # Citations
 
