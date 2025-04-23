@@ -1,1 +1,1 @@
-# Amazon-Stock-Price-ANalysis
+# Amazon-Stock-Price-Analysis
